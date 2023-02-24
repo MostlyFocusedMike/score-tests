@@ -1,7 +1,7 @@
 {
   "name": "score-tests",
   "version": "1.0.0",
-  "description": "Add scores for each correct test",
+  "description": "Score your tests",
   "main": "src/index.js",
   "directories": {
     "test": "tests"
